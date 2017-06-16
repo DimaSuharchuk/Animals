@@ -1,4 +1,4 @@
-package herbs;
+package classes.herbs;
 
 import abstracts.Herb;
 

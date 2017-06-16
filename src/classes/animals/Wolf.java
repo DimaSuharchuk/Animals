@@ -1,4 +1,4 @@
-package animals;
+package classes.animals;
 
 import abstracts.Predator;
 

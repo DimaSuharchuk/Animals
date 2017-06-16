@@ -1,4 +1,4 @@
-package world;
+package classes.world;
 
 public class World {
 }
