@@ -1,6 +1,6 @@
-package animals.abstracts;
+package abstracts;
 
-import animals.interfaces.Herbivorousable;
+import interfaces.Herbivorousable;
 
 public abstract class Herbivorous extends Animal implements Herbivorousable {
 }

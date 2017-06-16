@@ -1,4 +1,4 @@
-package animals.abstracts;
+package abstracts;
 
 public abstract class Herb {
 }

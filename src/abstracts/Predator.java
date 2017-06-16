@@ -1,6 +1,6 @@
-package animals.abstracts;
+package abstracts;
 
-import animals.interfaces.Animalable;
+import interfaces.Animalable;
 
 public abstract class Predator extends Animal implements Animalable {
 }

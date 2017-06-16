@@ -1,6 +1,6 @@
 package animals;
 
-import animals.abstracts.Herbivorous;
+import abstracts.Herbivorous;
 
 public class Hare extends Herbivorous {
 }

@@ -1,4 +1,4 @@
-package animals.interfaces;
+package interfaces;
 
 public interface Animalable {
 }
