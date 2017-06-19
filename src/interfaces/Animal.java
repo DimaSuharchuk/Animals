@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface Animalable {
+public interface Animal {
 
     void run();
 

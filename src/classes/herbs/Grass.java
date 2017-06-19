@@ -1,6 +1,6 @@
 package classes.herbs;
 
-import abstracts.Herb;
+import abstracts.HerbAbs;
 
-public class Grass extends Herb {
+public class Grass extends HerbAbs {
 }

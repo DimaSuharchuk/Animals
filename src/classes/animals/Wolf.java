@@ -1,6 +1,6 @@
 package classes.animals;
 
-import abstracts.Predator;
+import abstracts.PredatorAbs;
 
-public class Wolf extends Predator {
+public class Wolf extends PredatorAbs {
 }
